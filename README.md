@@ -1,5 +1,5 @@
 # 💫 Sobre Mim
-#👋 Opa! Me chamo Jonathan Moreno <br>
+👋 Opa! Me chamo Jonathan Moreno <br>
 Sou um desenvolvedor em formação com foco em **C# (.NET, ASP.NET)**, **APIs**, e **bancos de dados** como **MySQL, PostgreSQL** e **SQL Server**. Sempre em busca de novos desafios e aprendizados, acredito que a programação pode resolver inúmeros problemas transformando ideias em realidades que impactam o mundo.
 <!-- - 🖥️ Cursando Análise e Desenvolvimento de Sistemas - Estácio de Sá -->
 
