@@ -4,7 +4,7 @@ Sou um desenvolvedor em formação com foco em **C# (.NET, ASP.NET)**, **APIs**,
 
 <!-- - 🖥️ Cursando Análise e Desenvolvimento de Sistemas - Estácio de Sá -->
 
-# 💻 Technologies:
+# 💻 Tecnologias:
 <p>
     <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=dotnet" />
@@ -13,4 +13,9 @@ Sou um desenvolvedor em formação com foco em **C# (.NET, ASP.NET)**, **APIs**,
     <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-## 💬 Social Medias:
+# 💬 Contato:
+<p>
+    <a href="https://mail.google.com/mail/u/0/?to=jonathanwillianvidalmoreno@gmail.com&fs=1&tf=cm">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+</p>
