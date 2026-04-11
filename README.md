@@ -4,7 +4,7 @@ Sou um desenvolvedor em formação com foco em **C# (.NET, ASP.NET)**, **APIs**,
 <!-- - 🖥️ Cursando Análise e Desenvolvimento de Sistemas - Estácio de Sá -->
 
 <p align = "center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=1FF704&background=FF000000&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+C%23+" alt="Typing SVG" /></a> 
+    <a><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=1FF704&background=FF000000&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+C%23+" alt="Typing SVG" /></a> 
 </p> 
 
 # 💻 Tecnologias:
