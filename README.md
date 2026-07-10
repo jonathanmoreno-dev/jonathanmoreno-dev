@@ -9,11 +9,8 @@ Sou desenvolvedor backend em formação com foco em **C# (.NET, ASP.NET)**, **AP
 
 # Tecnologias:
 <p>
-    <img src="https://skillicons.dev/icons?i=cs" />
-    <img src="https://skillicons.dev/icons?i=dotnet" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgresql,mysql,jwt&titles=true"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" />
-    <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
 # Contato:
