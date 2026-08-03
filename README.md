@@ -9,8 +9,7 @@ Sou desenvolvedor backend com foco em **C# (.NET, ASP.NET), APIs REST** e **banc
 
 ## Tecnologias:
 <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,jwt,git,unity,swagger,postman,dbeaver,postgresql,mysql&titles=true"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,jwt,git,unity,swagger,postman,dbeaver,postgresql,mysql,sqlserver&titles=true"/>
 </p>
 
 ## Contato:
