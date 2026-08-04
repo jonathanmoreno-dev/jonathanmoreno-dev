@@ -14,7 +14,7 @@ Sou desenvolvedor backend com foco em **C# (.NET, ASP.NET), APIs REST** e **banc
 
 ## Contato:
 <p>
-    <a href="https://mail.google.com/mail/u/0/?to=jonathanwillianvidalmoreno@gmail.com&fs=1&tf=cm">
+    <a href="https://mail.google.com/mail/u/0/?to=jonathanmoreno.dev@gmail.com&fs=1&tf=cm">
         <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </p>
