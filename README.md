@@ -1,12 +1,12 @@
 ## Sobre Mim
 
-Sou desenvolvedor **Full Stack** com foco em **C# (.NET, ASP.NET), APIs REST, HTML, CSS, JavaScript, React e TypeScript**, alÃ©m de **bancos de dados relacionais** como **MySQL, PostgreSQL e SQL Server** e **nÃ£o relacionais** como **MongoDB**. Atualmente desenvolvo projetos pessoais para aprofundar meus conhecimentos em arquitetura de software, boas prÃ¡ticas e desenvolvimento de aplicaÃ§Ãµes escalÃ¡veis.
+Sou desenvolvedor backend com foco em **C# (.NET, ASP.NET), APIs REST, bancos de dados relacionais e não relacionais** como **MySQL, PostgreSQL, SQL Server e MongoDB**. Atualmente desenvolvo projetos pessoais para aprofundar meus conhecimentos em arquitetura de software, boas práticas e desenvolvimento de aplicações escaláveis.
 
 <!-- - ðŸ–¥ï¸ Cursando AnÃ¡lise e Desenvolvimento de Sistemas - UnoChapecÃ³ -->
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=1FF704&background=FF000000&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+Full+Stack" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=1FF704&background=FF000000&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+Backend" alt="Typing SVG">
   </a>
 </p>
 
